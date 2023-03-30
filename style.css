@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+body{
+    padding: 10px 50px;
+    font-family: 'Aboreto', cursive;
+    font-weight: 600;
+    color: blueviolet;
+    background-color: rgb(22, 45, 53);
+}
+.formdesign{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+    color: rgb(180, 223, 214);
+}
+
+.formdesign input{
+    width: 80%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 20=px;
+
+}
+.formerror{
+    color: rgb(172, 49, 49);
+}
+
+.btn{
+    border-radius: 12px;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    margin: 22px 10px;
+    border-color:darkslategray;
+    background-color: darkcyan;
+}
+.container{
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    font-size: 20px;
+    background-color: rgb(22, 51, 42);
+}
